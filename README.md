@@ -1,4 +1,4 @@
-### Hi there Friend 👋
+### Hi there Friend
 My name is not actually Peter The Great. You will get to know me once we get in touch.
 
 - 🔭 I’m currently working on: Some projects
