@@ -4,7 +4,7 @@ My name is not actually Peter The Great. You will get to know me once we get in 
 - 🔭 I’m currently working on: Some projects
 - 🌱 I’m currently learnin: CraftCMS
 - 👯 I’m looking to collaborate on: An project that might take my intrest
-- 🤔 I’m looking for help with: python,  languages
+- 🤔 I’m looking for help with: Python, CSS, Javascript, Typescript
 - 💬 Ask me about: PHP, MYSQL, HTML
 - 📫 How to reach me: UMMM
 - ⚡ Fun fact: I am a student at the GLR (Rotterdam)
