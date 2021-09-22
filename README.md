@@ -6,7 +6,7 @@ My name is not actually Peter The Great. You will get to know me once we get in 
 - 👯 I’m looking to collaborate on: An project that might take my intrest
 - 🤔 I’m looking for help with: Python, CSS, Javascript, Typescript
 - 💬 Ask me about: PHP, MYSQL, HTML
-- 📫 How to reach me: UMMM
+- 📫 How to reach me: (In the making)
 - ⚡ Fun fact: I am a student at the GLR (Rotterdam)
 
 ![Peters's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-The-Great&show_icons=true&theme=radical)
