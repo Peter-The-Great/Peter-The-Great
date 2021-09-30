@@ -8,6 +8,8 @@ My name is not actually Peter The Great. You will get to know me once we get in 
 - 💬 Ask me about: PHP, MYSQL, HTML
 - 📫 How to reach me: (In the making)
 - ⚡ Fun fact: I am a student at the GLR (Rotterdam)
-
+<details>
+  <summary>My GitHub Stats</summary>
 ![Peters's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-The-Great&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-The-Great&layout=compact&theme=radical)
+</details>
