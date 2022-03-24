@@ -2,7 +2,7 @@
 My name is not actually Peter The Great. You will get to know me once we get in touch.
 
 - 🔭 I’m currently working on: Some projects
-- 🌱 I’m currently learnin: FileMaker.
+- 🌱 I’m currently learning: FileMaker, but i will soon move on to JS, PHP and some other stuff.
 - 👯 I’m looking to collaborate on: An project that might take my intrest
 - 🤔 I’m looking for help with: Python, CSS, Javascript, Typescript
 - 💬 Ask me about: PHP, MYSQL, HTML, commandlines.
