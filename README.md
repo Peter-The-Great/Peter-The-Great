@@ -11,3 +11,6 @@ My name is not actually Peter The Great. You will get to know me once we get in 
 
 ---------------
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-The-Great&layout=compact&theme=radical)
+
+---------------
+[![An image of @peterthegreat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/peterthegreat)](https://holopin.io/@peterthegreat)
