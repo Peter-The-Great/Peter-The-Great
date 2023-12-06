@@ -4,9 +4,9 @@ My name is not actually Peter The Great. You will get to know me once we get in 
 - 🔭 I’m currently working on: Some projects
 - 🌱 I’m currently learning: C#, but i always want to learn other languages like Rust, Zig and Go.
 - 👯 I’m looking to collaborate on: An project that might take my intrest
-- 🤔 I’m looking for help with: Python, CSS, Javascript, Typescript
+- 🤔 I’m looking for help with: Python, Rust, Javascript, Typescript
 - 💬 Ask me about: PHP, MYSQL, HTML, commandlines.
-- 📫 How to reach me: (In the making, will be done soon)
+- 📫 How to reach me: You can reach me via my student email: 22026703@student.hhs.nl
 - ⚡ Fun fact: I am a student at The Hague University
 
 ---------------
