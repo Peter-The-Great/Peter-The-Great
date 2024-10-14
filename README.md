@@ -2,7 +2,7 @@
 My name is not actually Peter The Great. You will get to know me once we get in touch.
 
 - 🔭 I’m currently working on: Some projects
-- 🌱 I’m currently learning: C#, but i always want to learn other languages like Rust, Zig and Go.
+- 🌱 I’m currently learning: A few different Languages like C#, Python, Java, JS, PHP, etc., but i always want to learn other languages like Rust, Zig and Go.
 - 👯 I’m looking to collaborate on: An project that might take my intrest
 - 🤔 I’m looking for help with: Python, Rust, Javascript, Typescript
 - 💬 Ask me about: PHP, MYSQL, HTML, commandlines.
